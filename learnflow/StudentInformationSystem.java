@@ -153,7 +153,7 @@ class CourseService {
     }
 }
 
-public class Main {
+public class StudentInformationSystem {
     private static StudentService studentService = new StudentService();
     private static CourseService courseService = new CourseService();
     private static GradeService gradeService = new GradeService();
